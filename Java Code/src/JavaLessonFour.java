@@ -42,6 +42,7 @@ public class JavaLessonFour {
 				System.out.print("Continue y or n? ");
 				contYorN = userInput.nextLine();
 				h++;
+				// dummy comment to test egit.
 			}
 		}
 
